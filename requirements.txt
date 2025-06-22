@@ -1,0 +1,4 @@
+tabulate
+flake8
+pytest-cov
+pytest
